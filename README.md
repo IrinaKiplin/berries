@@ -1,1 +1,1 @@
-# berries
+# berries - учебный проект
